@@ -1,7 +1,7 @@
 require 'scraperwiki'
 require 'rubygems'
 require 'faraday'
-require 'Date'
+require 'date'
 
 
 start_date = (Date.today - 14).strftime("%d-%m-%Y")
