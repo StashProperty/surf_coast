@@ -1,4 +1,5 @@
 require 'scraperwiki'
+require 'rubygems'
 require 'Faraday'
 require 'Date'
 
